@@ -1,0 +1,6 @@
+path: /home/ashish/CodingHub/Yolo/Phase2Trainings/TrainingDataPhase2/Box27Oct4PM
+train: images/train
+val: images/validation
+
+names:
+  0: Box
